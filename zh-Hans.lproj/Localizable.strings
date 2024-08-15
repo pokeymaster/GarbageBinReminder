@@ -1,0 +1,11 @@
+// Localizable.strings (Chinese)
+"Garbage Bin Reminder" = "垃圾桶提醒";
+"Settings" = "设置";
+"This Week: Recyclable Waste & Green Waste" = "本周: 可回收垃圾和绿废";
+"This Week: General Waste & Green Waste" = "本周: 一般垃圾和绿废";
+"Reminder Day" = "提醒日";
+"Reminder Time" = "提醒时间";
+"Notification permission error" = "通知权限错误";
+
+
+
